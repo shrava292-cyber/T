@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mesh Audio</string>
+    <string name="app_full_name">Local Mesh Audio Notes</string>
+    <string name="nav_transceiver">Studio</string>
+    <string name="nav_inbox">Notes</string>
+    <string name="nav_mesh">Mesh</string>
+    <string name="hold_to_record">Hold to Record</string>
+    <string name="release_to_send">Release to Broadcast</string>
+    <string name="recording_locked">Recording Active</string>
+    <string name="tap_to_stop">Tap to Finish</string>
+    <string name="broadcast_all">All Nearby Peers</string>
+    <string name="discovery_active">Mesh Radio Active</string>
+    <string name="discovery_idle">Mesh Radio Standby</string>
+    <string name="grant_permissions">Enable Mesh &amp; Mic Permissions</string>
+    <string name="empty_notes_title">No Audio Notes Yet</string>
+    <string name="empty_notes_subtitle">Hold the studio mic to record an offline voice note and broadcast it over Wi-Fi Direct or BLE mesh.</string>
+    <string name="empty_peers_title">Scanning Local Spectrum</string>
+    <string name="empty_peers_subtitle">Nearby devices running Local Mesh Audio Notes will appear automatically via BLE beacons and Wi-Fi Direct.</string>
+    <string name="notification_channel_mesh">Mesh Discovery &amp; Relay</string>
+    <string name="notification_channel_mesh_desc">Keeps offline Wi-Fi Direct and BLE audio discovery running in the background.</string>
+</resources>

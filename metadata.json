@@ -1,0 +1,6 @@
+{
+  "name": "Mesh Audio",
+  "description": "Local Mesh Audio Notes — offline-first P2P voice notes over Wi-Fi Direct and BLE with chunked local socket relay and Room inbox storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
